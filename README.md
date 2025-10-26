@@ -63,5 +63,6 @@
 
 ## Демонстрация работы
 
-*(Сюда вы позже вставите ссылку на вашу asciinema-запись)*
+[![asciicast](https://asciinema.org/a/dVyy606SLme3V25LnjEoWFxgq.svg)](https://asciinema.org/a/dVyy606SLme3V25LnjEoWFxgq)
+
 
