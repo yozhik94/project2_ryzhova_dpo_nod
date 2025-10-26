@@ -17,3 +17,7 @@ publish:
 # Установка собранного пакета в систему
 package-install:
 	pipx install ./dist/*.whl
+
+# Запуск линтера для проверки качества кода
+lint:
+	poetry run ruff check .
