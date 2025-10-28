@@ -71,4 +71,4 @@
 
 ## [translate:Демонстрация работы]
 
-[![asciicast](https://asciinema.org/a/dVyy606SLme3V25LnjEoWFxgq.svg)](https://asciinema.org/a/dVyy606SLme3V25LnjEoWFxgq)
+[![asciicast](https://asciinema.org/a/zC0NMdTwy31dpx2mdAoy7Lh4Y.svg)](https://asciinema.org/a/zC0NMdTwy31dpx2mdAoy7Lh4Y)
